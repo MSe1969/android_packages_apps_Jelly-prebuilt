@@ -10,7 +10,9 @@ and signed during the build process.
 **The purpose of this repository is the use of Jelly in cm-13.0 builds**
 
 _Adapted code as outlined below:_
+
 https://review.lineageos.org/#/c/175180/ ->reverted due to build errors (color theme)
+
 https://review.lineageos.org/#/c/172633/ ->cherry-picked (add startpage search engine)
 
 
