@@ -8,4 +8,4 @@ and uploaded here.
 The apk file can't be directly side loaded and installed, it will be included and signed during the 
 build process.
 
-All crdits go to the Lineage OS project (I've only assembled the unsigned apk file here)
+All credits go to the Lineage OS project (I've only assembled the unsigned apk file here)
