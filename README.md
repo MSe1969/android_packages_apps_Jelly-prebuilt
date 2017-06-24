@@ -16,5 +16,6 @@ https://review.lineageos.org/#/c/175180/ ->reverted due to build errors (color t
 
 https://review.lineageos.org/#/c/172633/ ->cherry-picked (add startpage search engine)
 
+Latest build: June 24th
 
 All credits go to the Lineage OS project 
