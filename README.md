@@ -12,10 +12,8 @@ and signed during the build process.
 
 _Adapted code as outlined below:_
 
-https://review.lineageos.org/#/c/175180/ ->reverted due to build errors (color theme)
-
 https://review.lineageos.org/#/c/172633/ ->cherry-picked (add startpage search engine)
 
-Latest build: June 24th
+Latest build: July 1st
 
 All credits go to the Lineage OS project 
