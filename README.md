@@ -13,6 +13,7 @@ and signed during the build process.
 _Adapted code as outlined below:_
 
 https://review.lineageos.org/#/c/172633/ ->cherry-picked (add startpage search engine)
+
 https://review.lineageos.org/#/c/180831/ ->reverted (Google as default search engine)
 
 Latest build: September 19th
