@@ -1,7 +1,7 @@
 # android_packages_apps_Jelly-prebuilt
 Jelly (unsigned) apk as prebuilt from LineageOS/packages_apps_Jelly (Copyright (C) 2017 The LineageOS Project)
 
-This is from **MSe1969/packages_apps-Jelly**, which is a fok from **LineageOS/android_packages_apps_Jelly** 
+This is from **MSe1969/android_packages_apps_Jelly**, which is a fok from **LineageOS/android_packages_apps_Jelly** 
 (cm-14.1 branch), the unsigned APK has been built by the command *'gradlew assembleRelease'* within that repo
 and uploaded here. 
 
