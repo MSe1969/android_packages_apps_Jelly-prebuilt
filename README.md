@@ -16,6 +16,6 @@ https://review.lineageos.org/#/c/172633/ ->cherry-picked (add startpage search e
 
 https://review.lineageos.org/#/c/180831/ ->reverted (Google as default search engine)
 
-Latest build: September 19th
+Latest build: December 15th
 
 All credits go to the Lineage OS project 
