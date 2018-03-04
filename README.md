@@ -16,7 +16,7 @@ https://review.lineageos.org/#/c/172633/ ->cherry-picked (add startpage search e
 
 https://review.lineageos.org/#/c/180831/ ->reverted (Google as default search engine)
 
-Further, added 'Qwant Lite' search engine
+Further, added 'Qwant' search engine
 
 Latest build: March 4th, 2018
 
