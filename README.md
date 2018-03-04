@@ -16,6 +16,8 @@ https://review.lineageos.org/#/c/172633/ ->cherry-picked (add startpage search e
 
 https://review.lineageos.org/#/c/180831/ ->reverted (Google as default search engine)
 
-Latest build: February 5th, 2018
+Further, added 'Qwant Lite' search engine
+
+Latest build: March 4th, 2018
 
 All credits go to the Lineage OS project 
